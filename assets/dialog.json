@@ -356,10 +356,10 @@
             ]
         ],
         "responses": [{
-            "content": "哈哈好的",
+            "content": "嗯，蛮有理想的",
             "nextAsu": ["0026"]
         }, {
-            "content": "好，我看看"
+            "content": "理解啦"
         }]
     }, {
         "id": "0034",
