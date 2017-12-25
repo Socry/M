@@ -235,7 +235,7 @@
             ["新媒体运营", "哈哈哈哈"]
         ],
         "responses": [{
-            "content": "嗯哼~ 那你写公众号嘛？",
+            "content": "嗯哼~ 可以说说你的工作吗？",
             "nextAsu": ["0024"]
         }, {
             "content": "要一起写公众号嘛？",
@@ -244,7 +244,7 @@
     }, {
         "id": "0024",
         "details": [
-            ["我的主要工作是运营微博", "不过我也有自己的公众号啦"]
+            ["我的主要工作是运营企业微博及微信公众号", "我也有申请个人号啦"]
         ],
         "responses": [{
             "content": "可以把你的公众号发我看看嘛？",
@@ -262,10 +262,10 @@
                 "好的",
                 "<a href='https://mp.weixin.qq.com/mp/profile_ext?action=home&amp;__biz=MzA3OTc1ODQyNg==&amp;scene=110#wechat_redirect'>苍井树</a>",
                 "<img src='img/wechat.jpg'>",
-                "这是我14年申请的号",
-                "不过一直没动笔",
-                "以后会持续更新",
-                "记得要来捧场哦"
+                "这是我14年申请的号，不过一直没动笔",
+                "目前只写了两篇，以后会持续更新",
+                "<a href='https://mp.weixin.qq.com/s?__biz=MzA3OTc1ODQyNg==&mid=2650201846&idx=1&sn=a04c2221a7759ac6d93231c935778404&chksm=87acebc3b0db62d53eefb089dc30c5993a4eb46bae7dd6a368e2aa3e722e1dd1be229b29ec1e&mpshare=1&scene=1&srcid=1225LWMZetvh8qRozUZMlmGv#rd'>林志玲的一手好牌是被她自己打烂的</a>",
+                "<a href='https://mp.weixin.qq.com/s?__biz=MzA3OTc1ODQyNg==&mid=2650201858&idx=1&sn=1ac57f045bda1525d2d899a96ee71aee&chksm=87acea37b0db632187affed6234b0300cdb042322fe16dc25dce1d6f6036a8530eeb9a940b44&mpshare=1&scene=1&srcid=1225P3JsxazTDVT2060ZLKyd#rd'>躲在咪蒙背后割韭菜的庄家</a>"
             ]
         ]
     }, {
