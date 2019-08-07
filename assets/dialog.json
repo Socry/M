@@ -185,7 +185,7 @@
     }, {
         "id": "0018",
         "details": [
-            ["不给你看看照片你就不知道什么叫好看！", "<img src='img/asu.jpg'>"]
+            ["不给你看看照片你就不知道什么叫好看！", "<img src='img/11.jpg'>", "<img src='img/12.jpg'>"]
         ],
         "responses": [{
             "content": "阿树你的理想对象是怎样的啊？",
